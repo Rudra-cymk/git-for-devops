@@ -9,6 +9,7 @@ git restore testing.py
 git status                                                                                                                                                                                                                                                  git status                                                                                                                                                                                                                                                  
 git add testing.py                                                                                                                                                                                                                                          
  rm testing.py
+this is new changes
  git rm --cached
   git remote add originhttps://github.com/Rudra-cymk/git-for-devops.git                                                                                                              
    git branch -M main                                                                                                                                                                 
